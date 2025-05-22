@@ -14,5 +14,5 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Print Hello from 23f2001691@ds.study.iitm.ac.in
+      - name: 23f2001691@ds.study.iitm.ac.in
         run: echo "Hello, this is a GitHub action step!"
